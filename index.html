@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <title>Frontend Mentor | Results summary component</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap" rel="stylesheet">
+
+  <!-- link to css -->
+  <link rel="stylesheet" href="./css/styles.css">
+
+</head>
+<body>
+
+  <div class="big-container">
+    
+    <!-- Box for results -->
+    <div class="results-container">
+      <h3 class="title">Your Result</h3>
+      <div class="circle-container">
+        <h1>76</h1>
+        <p>of 100</p>
+      </div>
+      <h3>Great</h3>
+      <p>You scored higher than 65% of the people who have taken these tests.</p>
+    </div>
+
+    <!-- Box for summary -->
+    <div class="summary-container">
+      <h3 class="title">Summary</h3>
+
+      <div class="summary-item-red">
+        <div class="img-and-text">
+          <img src="./assets/images/icon-reaction.svg" alt="reaction-icon">
+          <span class="bold-text-red">Reaction</span>
+        </div>
+        <p class="scored"> <span class="total-scored">80</span> / 100 </p>
+      </div>
+      
+      <div class="summary-item-yellow">
+        <div class="img-and-text">
+            <img src="./assets/images/icon-memory.svg" alt="memory-icon">  
+            <span class="bold-text-yellow">Memory</span> 
+        </div>
+        <p class="scored"> <span class="total-scored">92</span> / 100 </p> 
+      </div>
+
+      <div class="summary-item-green">
+        <div class="img-and-text">
+          <img src="./assets/images/icon-verbal.svg" alt="verbal-icon">  
+          <span class="bold-text-green">Verbal</span> 
+        </div>
+        <p class="scored"> <span class="total-scored">61</span> / 100 </p> 
+      </div>
+
+      <div class="summary-item-blue">
+        <div class="img-and-text">
+          <img src="./assets/images/icon-visual.svg" alt="visual-icon">  
+          <span class="bold-text-blue">Visual</span> 
+        </div>  
+        <p class="scored"> <span class="total-scored">72</span> / 100 </p>
+      </div>
+
+      <div>
+        <button class="card-button" href="#">Continue</button>
+      </div>
+    </div>
+  </div>  
+  <footer class="attribution">
+    <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="https://github.com/gespinaza/" target="_blank">gespinaza</a>.</p>
+  </footer>
+</body>
+
+
+
+</html>
