@@ -1,10 +1,11 @@
-# Frontend Mentor - Huddle landing page with single introductory section solution
+# Frontend Mentor - Results summary component solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -13,39 +14,34 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
-![Final Result](https://github.com/gespinaza/font-end-mentor-HuddleLandingPage/blob/main/images/full%20screenshot.png)
-![Final Result - Responsive](https://github.com/gespinaza/font-end-mentor-HuddleLandingPage/blob/main/images/responsive-screenshoot.png)
+![Final Result](https://github.com/gespinaza/front-end-mentor-results-summary-component/blob/main/desktop_screenshot.png)
+![Final Result - Responsive](https://github.com/gespinaza/front-end-mentor-results-summary-component/blob/main/mobile_screenshot.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/gespinaza/font-end-mentor-HuddleLandingPage]
-- Live Site URL: [https://gespinaza.github.io/font-end-mentor-HuddleLandingPage/]
+- Solution URL: [https://github.com/gespinaza/front-end-mentor-results-summary-component]
+- Live Site URL: [https://gespinaza.github.io/front-end-mentor-results-summary-component/]
 
 ## My process
 
 ### Built with
 
-- HTML5
-- CSS
+- HTML
+- CSS 
 - Flexbox
-- Grid Layouts
-- RWD
-
 
 
 ### What I learned
 
-- I leaned hot to use grid layouts for this challenge and how to manage the responsive web design in a newbie way.
-- Also keep learning about the basics.
-
-
+- Keep learning about flex properties
 
 ### Continued development
 
